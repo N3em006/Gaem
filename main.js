@@ -117,7 +117,7 @@ var cle0=document.getElementById('cle0');
 
 cle0.onclick=function(){
 
-    window.print()
+window.print()
 
 }
  
